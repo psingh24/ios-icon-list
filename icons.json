@@ -1,74 +1,59 @@
 [
 	{
-		"file": "icon-40.png",
-		"dimension": 40
+		"file": "Icon40.png",
+		"dimension": 20
 	},
 	{
-		"file": "icon-40@2x.png",
-		"dimension": 80
-	},
-	{
-		"file": "icon-40@3x.png",
-		"dimension": 120
-	},
-	{
-		"file": "icon-50.png",
-		"dimension": 50
-	},
-	{
-		"file": "icon-50@2x.png",
-		"dimension": 100
-	},
-	{
-		"file": "icon-60.png",
+		"file": "Icon60.png",
 		"dimension": 60
 	},
 	{
-		"file": "icon-60@2x.png",
-		"dimension": 120
-	},
-	{
-		"file": "icon-60@3x.png",
-		"dimension": 180
-	},
-	{
-		"file": "icon-72.png",
-		"dimension": 72
-	},
-	{
-		"file": "icon-72@2x.png",
-		"dimension": 144
-	},
-	{
-		"file": "icon-76.png",
-		"dimension": 76
-	},
-	{
-		"file": "icon-76@2x.png",
-		"dimension": 152
-	},
-	{
-		"file": "icon-83.5@2x.png",
-		"dimension": 167
-	},
-	{
-		"file": "icon-small.png",
-		"dimension": 29
-	},
-	{
-		"file": "icon-small@2x.png",
+		"file": "Icon58.png",
 		"dimension": 58
 	},
 	{
-		"file": "icon-small@3x.png",
+		"file": "Icon87.png",
 		"dimension": 87
 	},
 	{
-		"file": "icon.png",
-		"dimension": 57
+		"file": "Icon80.png",
+		"dimension": 80
 	},
 	{
-		"file": "icon@2x.png",
-		"dimension": 114
-	}
+		"file": "Icon120.png",
+		"dimension": 120
+	  },
+	  {
+		"file": "Icon180.png",
+		"dimension": 180
+	  },
+	  {
+		"file": "Icon20.png",
+		"dimension": 20
+	  },
+	  {
+		"file": "Icon29.png",
+		"dimension": 29
+	  },
+	  {
+		"file": "Icon58.png",
+		"dimension": 58
+	  },
+	  {
+		"file": "Icon76.png",
+		"dimension": 76
+	  },
+	  {
+		"file": "Icon152.png",
+		"dimension": 152
+	  },
+	  {
+		"file": "Icon167.png",
+		"dimension": 83.5
+	  },
+	
+	  {
+		"file": "Icon1024.png",
+		"dimension": 1024
+	  }
 ]
