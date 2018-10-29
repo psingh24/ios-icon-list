@@ -1,15 +1,11 @@
 [
 	{
 		"file": "Icon40.png",
-		"dimension": 20
+		"dimension": 40
 	},
 	{
 		"file": "Icon60.png",
 		"dimension": 60
-	},
-	{
-		"file": "Icon58.png",
-		"dimension": 58
 	},
 	{
 		"file": "Icon87.png",
@@ -49,11 +45,55 @@
 	  },
 	  {
 		"file": "Icon167.png",
-		"dimension": 83.5
+		"dimension": 167
 	  },
 	
 	  {
 		"file": "Icon1024.png",
 		"dimension": 1024
-	  }
+		},
+		{
+			"file": "Icon167@2x.png",
+			"dimension": 83.5
+		},
+		{
+			"file": "Icon-60@2x.png",
+			"dimension": 120
+		},
+		{
+			"file": "Icon-60@3x.png",
+			"dimension": 180
+		},
+		{
+			"file": "Icon-76@2x.png",
+			"dimension": 152
+		},
+		{
+			"file": "Icon-83.5@2x.png",
+			"dimension": 167
+		},
+		{
+			"file": "Icon-Small-40.png",
+			"dimension": 40
+		},
+		{
+			"file": "Icon-Small-40@2x.png",
+			"dimension": 80
+		},
+		{
+			"file": "Icon-Small-40@3x.png",
+			"dimension": 120
+		},
+		{
+			"file": "Icon-Small.png",
+			"dimension": 29
+		},
+		{
+			"file": "Icon-Small@2x.png",
+			"dimension": 58
+		},
+		{
+			"file": "Icon-Small@3x.png",
+			"dimension": 87
+		}
 ]
